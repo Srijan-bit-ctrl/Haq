@@ -1,4 +1,7 @@
 # Haq — your rights and schemes, in your language
+🌐 **Live Demo:** [HaQ – Civic Copilot](https://haq-civic-copilot.vercel.app/)
+
+💻 **GitHub Repository:** [Srijan-bit-ctrl/Haq](https://github.com/Srijan-bit-ctrl/Haq)
 
 Haq turns official government documents into plain, regional-language explainers and tells a citizen
 **which schemes they qualify for — with the exact source for every answer.**
